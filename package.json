@@ -1,0 +1,14 @@
+{
+  "name": "form-builder-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fl-form-builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lazamar @ FourLabs",
+  "license": "ISC",
+  "dependencies": {
+    "fl-form-builder": "git+https://github.com/fourlabsldn/fl-form-builder.git"
+  }
+}
